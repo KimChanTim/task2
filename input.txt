@@ -1,0 +1,5 @@
+add Tom 123
+add Tim -11
+del Tom
+sub Tim -111
+add Tom 2
